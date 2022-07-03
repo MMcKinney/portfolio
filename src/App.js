@@ -4,7 +4,8 @@ import About from './components/About';
 import Projects from './components/Projects';
 import Experience from './components/Experience';
 import Education from './components/Education';
-import Social from './components/Social';
+import Certification from './components/Certification';
+import Contact from './components/Contact';
 import Footer from './components/Footer';
 
 function App() {
@@ -14,8 +15,9 @@ function App() {
 			<About />
 			<Projects />
 			<Experience />
-			<Education/>
-			<Social />
+			<Education />
+			<Certification />
+			<Contact />
 			<Footer />
 		</div>
 	);
