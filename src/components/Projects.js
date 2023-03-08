@@ -28,7 +28,7 @@ const Projects = () => {
                     <a href="#about" className="button">Site</a>
                     <a href="https://github.com/MMcKinney/portfolio" target="_blank" className="button">Code</a>
                     <p>
-                        This page is hosted on Web 3 using IPFS, it automatically builds the React app and deploys whenever I update the code on GitHub.
+                        This page is hosted on Web 3 using IPFS, it automatically builds the React app and deploys whenever the code is updated.
                     </p>
                 </div>
                 <div className="projects__card">
