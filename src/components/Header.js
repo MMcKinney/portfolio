@@ -1,6 +1,3 @@
-// Import Assets
-import profile from '../assets/profile.png';
-
 const Header = () => {
     return (
         <section className='header'>
